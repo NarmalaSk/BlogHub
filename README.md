@@ -1,4 +1,5 @@
 # BlogHub
+![Screenshot 2025-02-04 220522](https://github.com/user-attachments/assets/bedd5911-c8ee-4935-ac17-36329ecf8d2c)
 
 ## Bloghub - A Template-Based Blogging Platform
 
