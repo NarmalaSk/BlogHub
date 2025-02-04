@@ -1,0 +1,11 @@
+version: 2
+updates:
+  - package-ecosystem: "pip" # Use "npm" for Node.js
+    directory: "/" # Root directory
+    schedule:
+      interval: "weekly"
+    open-pull-requests-limit: 5
+    reviewers:
+      - "NarmalaSk" # Change to your GitHub username
+    assignees:
+      - "NarmalaSk"
