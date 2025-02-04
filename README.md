@@ -4,6 +4,8 @@
 
 Bloghub is an open-source, Markdown-based blogging platform that serves as an alternative to Medium. It allows users to create, manage, and publish blogs using Markdown (.md) files. The platform provides a template-driven approach to ensure consistency and simplicity in content presentation.
 
+Bloghub works as a Blogging platform and Dev tool by REST API for pushing Blogs to Bloghub
+shash CLI Tool for bloghub Automates pushing blogs directly from CLI
 ## Features
 
 Markdown-Based: Write and format blogs using simple Markdown syntax.
